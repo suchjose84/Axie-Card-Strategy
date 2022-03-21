@@ -187,256 +187,1146 @@
       "shield": 0,
       "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/tealshell.png"
     }, {
-      "name": "Perch",
+      "name": "Clam Shell",
       "class": "aqua",
-      "part": "back",
+      "part": "horn",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 60,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/clamshell.png"
     }, {
-      "name": "Perch",
+      "name": "Anemone",
       "class": "aqua",
-      "part": "back",
+      "part": "horn",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 50,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/anemonehorn.png"
     }, {
-      "name": "Perch",
+      "name": "Oranda",
       "class": "aqua",
-      "part": "back",
+      "part": "horn",
       "card_tye": "attack",
       "energy": 2,
-      "damage": 30,
+      "damage": 120,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/oranda.png"
     }, {
-      "name": "Perch",
+      "name": "Shoal Star",
       "class": "aqua",
-      "part": "back",
+      "part": "horn",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 50,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/shoalstar.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Swallow",
+      "class": "bird",
+      "part": "tail",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 70,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/swallow.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Feather Fan",
+      "class": "bird",
+      "part": "tail",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 35,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/featherfan.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "The Last One",
+      "class": "bird",
+      "part": "tail",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 70,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/thelastone.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Cloud",
+      "class": "bird",
+      "part": "tail",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 70,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/cloud.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Granma's Fan",
+      "class": "bird",
+      "part": "tail",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 25,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/granmasfan.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Post Fight",
+      "class": "bird",
+      "part": "tail",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 100,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/postfight.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
+      "name": "Balloon",
+      "class": "bird",
       "part": "back",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 60,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/balloon.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
+      "name": "Cupid",
+      "class": "bird",
       "part": "back",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 60,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/cupid.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
+      "name": "Raven",
+      "class": "bird",
       "part": "back",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 60,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/raven.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
+      "name": "Pigeon Post",
+      "class": "bird",
       "part": "back",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 55,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/pigeonpost.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
+      "name": "Kingfisher",
+      "class": "bird",
       "part": "back",
-      "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/kingfisher.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
+      "name": "Tri Feather",
+      "class": "bird",
       "part": "back",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 25,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/trifeather.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Doubletalk",
+      "class": "bird",
+      "part": "mouth",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 65,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/doubletalk.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Peace Maker",
+      "class": "bird",
+      "part": "mouth",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 60,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/peacemaker.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Little Owl",
+      "class": "bird",
+      "part": "mouth",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 60,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/littleowl.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Hungry Bird",
+      "class": "bird",
+      "part": "mouth",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 65,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/hungrybird.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Eggshell",
+      "class": "bird",
+      "part": "horn",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 70,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/eggshell.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
-      "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "name": "Cuckoo",
+      "class": "bird",
+      "part": "horn",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/cuckoo.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Trump",
+      "class": "bird",
+      "part": "horn",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 65,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/trump.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
-      "part": "back",
+      "name": "Kestrel",
+      "class": "bird",
+      "part": "horn",
       "card_tye": "attack",
-      "energy": 2,
-      "damage": 30,
+      "energy": 1,
+      "damage": 50,
       "heal": 0,
       "shield": 0,
-      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/kestrel.png"
     }, {
-      "name": "Perch",
-      "class": "aqua",
+      "name": "Wing Horn",
+      "class": "bird",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/winghorn.png"
+    },{
+      "name": "Feather Spear",
+      "class": "bird",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/featherspear.png"
+    },{
+      "name": "Cottontail",
+      "class": "beast",
+      "part": "tail",
+      "card_tye": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/cottontail.png"
+    },{
+      "name": "Rice",
+      "class": "beast",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/rice.png"
+    },{
+      "name": "Shiba",
+      "class": "beast",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 130,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/shiba.png"
+    },{
+      "name": "Hare",
+      "class": "beast",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 70,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/hare.png"
+    },{
+      "name": "Nut Cracker",
+      "class": "beast",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/nutcrackertail.png"
+    },{
+      "name": "Gerbil",
+      "class": "beast",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 70,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/gerbil.png"
+    },{
+      "name": "Ronin",
+      "class": "beast",
+      "part": "back",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 40,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/ronin.png"
+    },{
+      "name": "Hero",
+      "class": "beast",
+      "part": "back",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/hero.png"
+    },{
+      "name": "Jaguar",
+      "class": "beast",
+      "part": "back",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/jaguar.png"
+    },{
+      "name": "Risky Beast",
+      "class": "beast",
+      "part": "back",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 90,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/riskybeast.png"
+    },{
+      "name": "Timber",
+      "class": "beast",
+      "part": "back",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/timber.png"
+    },{
+      "name": "Furball",
+      "class": "beast",
+      "part": "back",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 40,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/furball.png"
+    },{
+      "name": "Nut Cracker",
+      "class": "beast",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/nutcrackermouth.png"
+    },{
+      "name": "Goda",
+      "class": "beast",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/goda.png"
+    },{
+      "name": "Axie Kiss",
+      "class": "beast",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/axiekiss.png"
+    },{
+      "name": "Confident",
+      "class": "beast",
+      "part": "mouth",
+      "card_tye": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/confident.png"
+    },{
+      "name": "Little Branch",
+      "class": "beast",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 2,
+      "damage": 130,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/littlebranch.png"
+    },{
+      "name": "Imp",
+      "class": "beast",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 70,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/imp.png"
+    },{
+      "name": "Merry",
+      "class": "beast",
+      "part": "horn",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 65,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/merry.png"
+    },{
+      "name": "Pocky",
+      "class": "beast",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/pocky.png"
+    },{
+      "name": "Dual Blade",
+      "class": "beast",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/dualblade.png"
+    },{
+      "name": "Arco",
+      "class": "beast",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/arco.png"
+    },{
+      "name": "Ant",
+      "class": "bug",
+      "part": "tail",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 40,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/ant.png"
+    },{
+      "name": "Twin Tail",
+      "class": "bug",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 35,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/twintail.png"
+    },{
+      "name": "Fish Snack",
+      "class": "bug",
+      "part": "tail",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/fishsnack.png"
+    },{
+      "name": "Gravel Ant",
+      "class": "bug",
+      "part": "tail",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/gravelant.png"
+    },{
+      "name": "Pupae",
+      "class": "bug",
+      "part": "tail",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/pupae.png"
+    },{
+      "name": "Thorny Caterpillar",
+      "class": "bug",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 2,
+      "damage": 110,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/thornycaterpillar.png"
+    },{
+      "name": "Snail Shell",
+      "class": "bug",
+      "part": "back",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/snailshell.png"
+    },{
+      "name": "Garish Worm",
+      "class": "bug",
       "part": "back",
       "card_tye": "attack",
       "energy": 2,
+      "damage": 120,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/garishworm.png"
+    },{
+      "name": "Buzz Buzz",
+      "class": "bug",
+      "part": "back",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 20,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/buzzbuzz.png"
+    },{
+      "name": "Sandal",
+      "class": "bug",
+      "part": "back",
+      "card_tye": "attack",
+      "energy": 2,
+      "damage": 100,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/sandal.png"
+    },{
+      "name": "Scarab",
+      "class": "bug",
+      "part": "back",
+      "card_tye": "attack",
+      "energy": 1,
       "damage": 30,
       "heal": 0,
       "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/scarab.png"
+    },{
+      "name": "Spiky Wing",
+      "class": "bug",
+      "part": "back",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 70,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/spikywing.png"
+    },{
+      "name": "Mosquito",
+      "class": "bug",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/mosquito.png"
+    },{
+      "name": "Pincer",
+      "class": "bug",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/pincer.png"
+    },{
+      "name": "Cute Bunny",
+      "class": "bug",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/cutebunny.png"
+    },{
+      "name": "Square Teeth",
+      "class": "bug",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 0,
+      "damage": 25,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/squareteeth.png"
+    },{
+      "name": "Lagging",
+      "class": "bug",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/lagging.png"
+    },{
+      "name": "Antenna",
+      "class": "bug",
+      "part": "horn",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/antenna.png"
+    },{
+      "name": "Caterpillars",
+      "class": "bug",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/caterpillars.png"
+    },{
+      "name": "Pliers",
+      "class": "bug",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/pliers.png"
+    },{
+      "name": "Parasite",
+      "class": "bug",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/parasite.png"
+    },{
+      "name": "Leaf Bug",
+      "class": "bug",
+      "part": "horn",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 45,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/leafbug.png"
+    },{
+      "name": "Wall Gecko",
+      "class": "reptile",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/wallgecko.png"
+    },{
+      "name": "Iguana",
+      "class": "reptile",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 70,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/iguana.png"
+    },{
+      "name": "Tiny Dino",
+      "class": "reptile",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/tinydino.png"
+    },{
+      "name": "Snake Jar",
+      "class": "reptile",
+      "part": "tail",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/snakejar.png"
+    },{
+      "name": "Gila",
+      "class": "reptile",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 2,
+      "damage": 40,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/gila.png"
+    },{
+      "name": "Grass Snake",
+      "class": "reptile",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 70,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/grasssnake.png"
+    },{
+      "name": "Bone Sail",
+      "class": "reptile",
+      "part": "back",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bonesail.png"
+    },{
+      "name": "Tri Spikes",
+      "class": "reptile",
+      "part": "back",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 25,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/trispikes.png"
+    },{
+      "name": "Green Thorns",
+      "class": "reptile",
+      "part": "back",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/greenthorns.png"
+    },{
+      "name": "Indian Star",
+      "class": "reptile",
+      "part": "back",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/indianstar.png"
+    },{
+      "name": "Red Ear",
+      "class": "reptile",
+      "part": "back",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 65,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/redear.png"
+    },{
+      "name": "Croc",
+      "class": "reptile",
+      "part": "back",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/croc.png"
+    },{
+      "name": "Kotaro",
+      "class": "reptile",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 30,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/kotaro.png"
+    },{
+      "name": "Razor Bite",
+      "class": "reptile",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/razorbite.png"
+    },{
+      "name": "Tiny Turtle",
+      "class": "reptile",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 50,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/tinyturtle.png"
+    },{
+      "name": "Toothless Bite",
+      "class": "reptile",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/toothlessbite.png"
+    },{
+      "name": "Unko",
+      "class": "reptile",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/unko.png"
+    },{
+      "name": "Scaly Spear",
+      "class": "reptile",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/scalyspear.png"
+    },{
+      "name": "Cerastes",
+      "class": "reptile",
+      "part": "horn",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/cerastes.png"
+    },{
+      "name": "Scaly Spoon",
+      "class": "reptile",
+      "part": "horn",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/scalyspoon.png"
+    },{
+      "name": "Incisor",
+      "class": "reptile",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/incisor.png"
+    },{
+      "name": "Bumpy",
+      "class": "reptile",
+      "part": "tail",
+      "card_tye": "power",
+      "energy": 2,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bumpy.png"
+    },{
+      "name": "Carrot",
+      "class": "plant",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/carrot.png"
+    },{
+      "name": "Cattail",
+      "class": "plant",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 50,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/cattail.png"
+    },{
+      "name": "Hatsune",
+      "class": "plant",
+      "part": "tail",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/hatsune.png"
+    },{
+      "name": "Yam",
+      "class": "plant",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 0,
+      "damage": 5,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/yam.png"
+    },{
+      "name": "Potato Leaf",
+      "class": "plant",
+      "part": "tail",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 70,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/potatoleaf.png"
+    },{
+      "name": "Hot Butt",
+      "class": "plant",
+      "part": "tail",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/hotbutt.png"
+    },{
+      "name": "Turnip",
+      "class": "plant",
+      "part": "back",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/turnip.png"
+    },{
+      "name": "Shiitake",
+      "class": "plant",
+      "part": "back",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/shiitake.png"
+    },{
+      "name": "Bidens",
+      "class": "plant",
+      "part": "back",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bidens.png"
+    },{
+      "name": "Watering Can",
+      "class": "plant",
+      "part": "back",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/wateringcan.png"
+    },{
+      "name": "Mint",
+      "class": "plant",
+      "part": "back",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 20,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/Mint.png"
+    },{
+      "name": "Pumpkin",
+      "class": "plant",
+      "part": "back",
+      "card_tye": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 60,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/pumpkin.png"
+    },{
+      "name": "Serious",
+      "class": "plant",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 90,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/serious.png"
+    },{
+      "name": "Zigzag",
+      "class": "plant",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/zigzag.png"
+    },{
+      "name": "Herbivore",
+      "class": "plant",
+      "part": "mouth",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/herbivore.png"
+    },{
+      "name": "Silence Whisper",
+      "class": "plant",
+      "part": "mouth",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 65,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/herbivore.png"
+    },{
+      "name": "Bamboo Shoot",
+      "class": "plant",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
       "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/bambooshoot.png"
-    },
+    },{
+      "name": "Beech",
+      "class": "plant",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 2,
+      "damage": 120,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/beech.png"
+    },{
+      "name": "Rose Bud",
+      "class": "plant",
+      "part": "horn",
+      "card_tye": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 70,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/rosebud.png"
+    },{
+      "name": "Strawberry Shortcake",
+      "class": "plant",
+      "part": "horn",
+      "card_tye": "skill",
+      "energy": 2,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/strawberryshortcake.png"
+    },{
+      "name": "Cactus",
+      "class": "plant",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/cactus.png"
+    },{
+      "name": "Watermelon",
+      "class": "plant",
+      "part": "horn",
+      "card_tye": "attack",
+      "energy": 1,
+      "damage": 50,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "https://github.com/suchjose84/Axie-Card-Strategy/blob/master/images/full_cards/watermelon.png"
+    }
 
 
   ]
