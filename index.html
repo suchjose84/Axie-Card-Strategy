@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="css/main_small.css">
 
     <title>Axie Cards</title>
+    
+    
 </head>
 <body>
 
@@ -27,12 +29,59 @@
 
     <main>
 
-        <section class="filter_section">
-            
-
-        </section>
-
         <section class="gallery">
+
+            <fieldset>
+                <div class="inputContainer">
+                    <label class="top">Energy
+                        <select class="filter" id="costList" placeholder="All" onchange="showCards()">
+                            <option value="" selected="">All</option>
+                            <option value="0">0</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                          </select>
+                    </label>
+                    <label class="top">Class
+                        <select class="filter" id="classList" placeholder="All" onchange="">
+                            <option value="" selected="">All</option>
+                            <option value="plant">Plant</option>
+                            <option value="reptile">Reptile</option>
+                            <option value="beast">Beast</option>
+                            <option value="bug">Bug</option>
+                            <option value="aqua">Aqua</option>
+                            <option value="bird">Bird</option>
+                          </select>
+                    </label>
+                    <label class="top">Part
+                        <select class="filter" id="partList" placeholder="All">
+                            <option value="" selected="">All</option>
+                            <option value="tail">Tail</option>
+                            <option value="back">Back</option>
+                            <option value="mouth">Mouth</option>
+                            <option value="horn">Horn</option>
+                          </select>
+                    </label>
+                    <label class="top">Card Type
+                        <select class="filter" id="cardTypeList" placeholder="All">
+                            <option value="" selected="">All</option>
+                            <option value="attack">Attack</option>
+                            <option value="secret">Secret</option>
+                            <option value="skill">Skill</option>
+                          </select>
+                    </label>
+                    <label class="top">Sort
+                        <select class="filter" id="sortList" placeholder="Class">
+                            <option value="" selected="">by class</option>
+                            <option value="highestDamage">highest damage</option>
+                            <option value="lowestAttack">lowest damage</option>
+                            <option value="highestShield">highest shield</option>
+                            <option value="lowestShield">lowest shield</option>
+                            <option value="heals">heals</option>
+                          </select>
+                    </label>
+
+                </div>
+            </fieldset>
             <div class="card_box"></div>
 
         </section>
