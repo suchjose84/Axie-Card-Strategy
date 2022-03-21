@@ -27,7 +27,7 @@ li {
     text-decoration: none;
 }
 body {
-    background-color: rgba(255,140,0,.4);
+    background-color: white;
 }
 
 header {
@@ -47,5 +47,23 @@ header {
 header ul {
     display: flex;
     align-items: center;
+}
+
+.gallery div{
+    width: 90%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border: 1px solid red;
+    grid-gap: 30px;
+
+}
+.gallery div picture{
+    width: 100%;
+    border: 1px solid green;
+
+}
+.gallery img{
+    width: 100%;
 }
 

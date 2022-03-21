@@ -1,5 +1,5 @@
 
-const requestURL = 'https://github.com/suchjose84/Axie-Card-Strategy/blob/master/axie_cards.json';
+const requestURL = 'json/axie_cards.json';
 
 fetch(requestURL)
   .then(function (response) {
@@ -13,7 +13,7 @@ fetch(requestURL)
     //for loop here
     for (let i = 0; i < axies.length; i++) {
       
-      let card = document.createElement('div');
+      let card = document.createElement('picture');
       let img = document.createElement('img');
 
       img.setAttribute('src', axies[i].imageurl);
@@ -22,7 +22,7 @@ fetch(requestURL)
       
       card.appendChild(img);
 
-      document.querySelector('.cardBox').appendChild(card);
+      document.querySelector('.card_box').appendChild(card);
 
     }
 });
