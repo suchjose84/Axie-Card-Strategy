@@ -49,7 +49,7 @@ header ul {
     align-items: center;
 }
 
-.card_box{
+.card_box, .card_boxSelected{
     width: 90%;
     margin: 0 auto;
     display: grid;
@@ -58,6 +58,7 @@ header ul {
     grid-gap: 30px;
 
 }
+
 .card_box picture{
     width: 100%;
     border: 1px solid green;

@@ -1,23 +1,27 @@
+//Initial Page Load
 const requestURL = 'json/axie_cards.json';
-
 fetch(requestURL)
   .then(function (response) {
     return response.json();
   })
   .then(function (jsonObject) {
-    // console.table(jsonObject);  // temporary checking for valid response and data parsing
     const axies = jsonObject['axies']
 
-
-    //loop all cards from json file
+    //for loop to make cards
     for (let i = 0; i < axies.length; i++) {
 
-      let card = document.createElement('picture');
-      let img = document.createElement('img');
+
+      var card = document.createElement('picture');
+      var img = document.createElement('img');
+
 
       img.setAttribute('src', axies[i].imageurl);
       img.setAttribute('data-src', axies[i].imageurl);
       img.setAttribute('alt', 'cardImage');
+      card.classList.add('axie_card');
+      // card.classList.add(axies[i].class);
+      // card.classList.add(axies[i].part);
+      // card.classList.add(axies[i].card_type);
 
       card.appendChild(img);
 
@@ -25,84 +29,119 @@ fetch(requestURL)
 
     }
 
-    const selectElement = document.querySelector('.inputContainer');
+  });
 
-    const getClass = document.getElementById("classList").value;
-    const getPart = document.getElementById("partList").value;
-    const getCardType = document.getElementById("cardTypeList").value;
+//addEventListener when .inputContainer changes
+var selectors = document.querySelector(".inputContainer");
+selectors.addEventListener("change", (e) => {
+
+  var x = document.querySelector(".bigcard_box");
+  var selectedClass = document.getElementById('classList').value;
+  var selectedPart = document.getElementById('partList').value;
+  var selectedCardType = document.getElementById('cardTypeList').value;
+  var selectedCost = document.getElementById('costList').value;
+  var selectedSort = document.getElementById('sortList').value;
+  while (x.firstChild) {
+    x.removeChild(x.firstChild);
+  }
+  showSelectedCards(selectedClass, selectedPart, selectedCardType, selectedCost);
 
 
-    selectElement.addEventListener('change', e => {
+});
 
 
-      showCards(getClass, getPart, getCardType);
+function showSelectedCards(a, b, c, d) {
 
-
-
-      console.log(getClass);
-      
+  const requestURL = 'json/axie_cards.json';
+  fetch(requestURL)
+    .then(function (response) {
+      return response.json();
     })
+    .then(function (jsonObject) {
+      // console.table(jsonObject);  // temporary checking for valid response and data parsing
+      const axies = jsonObject['axies']
 
+      const selectedAxies = [];
+      const newAxies = [];
+      const newerAxies = [];
+      const superNewAxies = [];
+      let axieClass = a;
+      let axiePart = b;
+      let cardType = c;
+      let cost = d;
 
-    function showCards(getClass, getPart, getCardType) {
-      let selectedAxies = [];
-      let axieClass = getCardType
-
-      for (let i = 0; i < axies.length; i++) {
-        if (axies[i].class == getClass && axies[i].part == getPart) {
+      for(let i = 0; i < axies.length; i++){
+        if(axies[i].class == axieClass || axieClass == "All"){
           selectedAxies.push(axies[i]);
         }
+      }
 
-      };
+      for(let i = 0; i < selectedAxies.length; i++){
+        if(selectedAxies[i].part == axiePart || axiePart == "All"){
+          newAxies.push(selectedAxies[i]);
+        }
+      }
+      for(let i = 0; i < newAxies.length; i++){
+        if(newAxies[i].card_type == cardType || cardType == "All"){
+          newerAxies.push(newAxies[i]);
+        }
+      }
+      for(let i = 0; i < newerAxies.length; i++){
+        if(newerAxies[i].energy == cost || cost == "All"){
+          superNewAxies.push(newerAxies[i]);
+        }
+      }console.log(superNewAxies);
 
-      for (let i = 0; i < selectedAxies.length; i++) {
+      
+
+      //Add to the page the selected options
+      var callBigBox = document.querySelector('.bigcard_box')
+      var div = document.createElement('div');
+      div.setAttribute('class', 'card_boxSelected');
+      callBigBox.appendChild(div);
+
+      for (let i = 0; i < superNewAxies.length; i++) {
+
         let card = document.createElement('picture');
         let img = document.createElement('img');
-
-        img.setAttribute('src', selectedAxies[i].imageurl);
-        img.setAttribute('data-src', selectedAxies[i].imageurl);
+    
+        img.setAttribute('src', superNewAxies[i].imageurl);
         img.setAttribute('alt', 'cardImage');
+        card.classList.add('axie_card');
 
         card.appendChild(img);
-
-        document.querySelector('.card_box').appendChild(card)
-      }
-      console.log(selectedAxies);
-
+        document.querySelector('.card_boxSelected').appendChild(card);
     }
 
-    // const getClass = document.getElementById("classList").value;
-    // const getPart = document.getElementById("partList").value;
-    // const getCardType = document.getElementById("cardTypeList").value;
-
-
-    // function showCards(getClass){
-    //   let selectedAxies = [];
-    // for (let i=0; i < axies.length; i++){
-    //   if(axies[i].class == getClass && axies[i].part == "horn" && axies[i].card_type == "attack"){
-    //     selectedAxies.push(axies[i]);
-    //   }
-
-    // };
-
-    // for(let i=0; i < selectedAxies.length; i++){
-    //   let card = document.createElement('picture');
-    //   let img = document.createElement('img');
-
-    //   img.setAttribute('src', selectedAxies[i].imageurl);
-    //   img.setAttribute('data-src', selectedAxies[i].imageurl);
-    //   img.setAttribute('alt', 'cardImage');
-
-    //   card.appendChild(img);
-
-    //   document.querySelector('.card_box').appendChild(card)
-    // }
-    // console.log(selectedAxies);
-
-    // }
-
-    // showCards();
 
 
 
-  });
+      // var selectedAxies = [];
+      // for (let i = 0; i < axies.length; i++) {
+      //   if (axies[i].class == a && axies[i].part == b && axies[i].card_type == c) {
+      //     selectedAxies.push(axies[i]);
+      //   }
+      // }
+      // for (let i = 0; i < selectedAxies.length; i++) {
+      //   let card = document.createElement('picture');
+      //   let img = document.createElement('img');
+    
+      //   img.setAttribute('src', axies[i].imageurl);
+      //   img.setAttribute('data-src', axies[i].imageurl);
+      //   img.setAttribute('alt', 'cardImage');
+      //   card.classList.add('axie_card');
+    
+      //   card.appendChild(img);
+      //   document.querySelector('.card_box').appendChild(card);
+    
+      // }
+
+      
+
+    });
+
+
+
+  
+
+}
