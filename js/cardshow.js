@@ -44,13 +44,13 @@ selectors.addEventListener("change", (e) => {
   while (x.firstChild) {
     x.removeChild(x.firstChild);
   }
-  showSelectedCards(selectedClass, selectedPart, selectedCardType, selectedCost);
+  showSelectedCards(selectedClass, selectedPart, selectedCardType, selectedCost, selectedSort);
 
 
 });
 
 
-function showSelectedCards(a, b, c, d) {
+function showSelectedCards(a, b, c, d, e) {
 
   const requestURL = 'json/axie_cards.json';
   fetch(requestURL)
@@ -69,6 +69,7 @@ function showSelectedCards(a, b, c, d) {
       let axiePart = b;
       let cardType = c;
       let cost = d;
+      let sort = e;
 
       for(let i = 0; i < axies.length; i++){
         if(axies[i].class == axieClass || axieClass == "All"){
@@ -92,6 +93,21 @@ function showSelectedCards(a, b, c, d) {
         }
       }console.log(superNewAxies);
 
+      if(sort == "highestDamage"){
+        superNewAxies.sort((a, b) => b.damage - a.damage);
+      }
+      else if(sort == "lowestDamage"){
+        superNewAxies.sort((a, b) => a.damage - b.damage);
+      }
+      else if(sort == "highestShield"){
+        superNewAxies.sort((a, b) => b.shield - a.shield);
+      }
+      else if(sort == "lowestShield"){
+        superNewAxies.sort((a, b) => a.shield - b.shield);
+      }
+      else if(sort == "heal"){
+        superNewAxies.sort((a, b) => b.heal - a.heal);
+      }
       
 
       //Add to the page the selected options

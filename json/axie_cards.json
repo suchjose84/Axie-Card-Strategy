@@ -453,7 +453,7 @@
       "card_type": "skill",
       "energy": 0,
       "damage": 0,
-      "heal": 0,
+      "heal": 20,
       "shield": 0,
       "imageurl": "images/full_cards/cottontail.png"
     },{
