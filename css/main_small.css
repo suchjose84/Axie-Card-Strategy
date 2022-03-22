@@ -27,18 +27,17 @@ li {
     text-decoration: none;
 }
 body {
-    background-color: white;
+    background-color: rgba(255,165,0, .7);
 }
 
 header {
     height: 6.5rem;
-    background-color: rgba(255,255,255, .8);
+    background-color: rgb(30,144,255);
     display: flex;
     justify-content: start;
     font-size: 3.3rem;
     font-family: 'Catamaran', 'Sans-serif';
     color: rgb(0,0,0, .9);
-    border: 1px solid black;
 }
 .headerImgBox img{
     height: 100%;
@@ -51,17 +50,16 @@ header ul {
 
 .card_box, .card_boxSelected{
     width: 90%;
-    margin: 0 auto;
+    margin: 3rem auto 0;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    border: 1px solid red;
     grid-gap: 30px;
+    
 
 }
 
 .card_box picture{
     width: 100%;
-    border: 1px solid green;
 
 }
 .gallery img{
