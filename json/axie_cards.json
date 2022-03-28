@@ -227,6 +227,106 @@
       "shield": 0,
       "imageurl": "images/full_cards/shoalstar.png"
     }, {
+      "name": "Nimo",
+      "class": "aqua",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 20,
+      "shield": 0,
+      "imageurl": "images/full_cards/nimoear.png"
+    },{
+      "name": "Tiny Fan",
+      "class": "aqua",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/tinyfan.png"
+    },{
+      "name": "Gill",
+      "class": "aqua",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 50,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/gill.png"
+    },{
+      "name": "Seaslug",
+      "class": "aqua",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 2,
+      "damage": 110,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/seaslug.png"
+    },{
+      "name": "Inkling",
+      "class": "aqua",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/inkling.png"
+    },{
+      "name": "Bubblemaker",
+      "class": "aqua",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 50,
+      "imageurl": "images/full_cards/bubblemaker.png"
+    },{
+      "name": "Sleepless",
+      "class": "aqua",
+      "part": "eyes",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/sleepless.png"
+    },{
+      "name": "Clear",
+      "class": "aqua",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/clear.png"
+    },{
+      "name": "Gero",
+      "class": "aqua",
+      "part": "eyes",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/gero.png"
+    },{
+      "name": "Telescope",
+      "class": "aqua",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/telescope.png"
+    },{
       "name": "Swallow",
       "class": "bird",
       "part": "tail",
@@ -236,7 +336,7 @@
       "heal": 0,
       "shield": 0,
       "imageurl": "images/full_cards/swallow.png"
-    }, {
+    },{
       "name": "Feather Fan",
       "class": "bird",
       "part": "tail",
@@ -447,6 +547,108 @@
       "shield": 0,
       "imageurl": "images/full_cards/featherspear.png"
     },{
+      "name": "Pink Cheek",
+      "class": "bird",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/pinkcheek.png"
+    },{
+      "name": "Little Owl",
+      "class": "bird",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/littleowlear.png"
+    },{
+      "name": "Peace Maker",
+      "class": "bird",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/peacemakerear.png"
+    },{
+      "name": "Early Bird",
+      "class": "bird",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/earlybird.png"
+    },{
+      "name": "Curly",
+      "class": "bird",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/curly.png"
+    },{
+      "name": "Risky Bird",
+      "class": "bird",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 90,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/riskybird.png"
+    },
+    {
+      "name": "Mavis",
+      "class": "bird",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/mavis.png"
+    },{
+      "name": "Lucas",
+      "class": "bird",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/lucas.png"
+    },{
+      "name": "Little Owl",
+      "class": "bird",
+      "part": "eyes",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/littleowleyes.png"
+    },{
+      "name": "Robin",
+      "class": "bird",
+      "part": "eyes",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/robin.png"
+    },
+    {
       "name": "Cottontail",
       "class": "beast",
       "part": "tail",
@@ -667,6 +869,108 @@
       "shield": 0,
       "imageurl": "images/full_cards/arco.png"
     },{
+      "name": "Zen",
+      "class": "beast",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 65,
+      "shield": 0,
+      "imageurl": "images/full_cards/zen.png"
+    },{
+      "name": "Puppy",
+      "class": "beast",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 25,
+      "shield": 0,
+      "imageurl": "images/full_cards/puppyears.png"
+    },{
+      "name": "Innocent Lamb",
+      "class": "beast",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/innocentlamb.png"
+    },{
+      "name": "Belieber",
+      "class": "beast",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 20,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/belieber.png"
+    },{
+      "name": "Nut Cracker",
+      "class": "beast",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/nutcrackerear.png"
+    },{
+      "name": "Nyan",
+      "class": "beast",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 65,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/nyan.png"
+    },
+    {
+      "name": "Zeal",
+      "class": "beast",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/zeal.png"
+    },{
+      "name": "Little Peas",
+      "class": "beast",
+      "part": "eyes",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/littlepeas.png"
+    },{
+      "name": "Puppy",
+      "class": "beast",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/puppyeyes.png"
+    },{
+      "name": "Chubby",
+      "class": "beast",
+      "part": "eyes",
+      "card_type": "attack",
+      "energy": 2,
+      "damage": 50,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/chubby.png"
+    },
+    {
       "name": "Ant",
       "class": "bug",
       "part": "tail",
@@ -887,6 +1191,108 @@
       "shield": 45,
       "imageurl": "images/full_cards/leafbug.png"
     },{
+      "name": "Tassels",
+      "class": "bug",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 10,
+      "shield": 0,
+      "imageurl": "images/full_cards/tassels.png"
+    },{
+      "name": "Larva",
+      "class": "bug",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/larva.png"
+    },{
+      "name": "Earwing",
+      "class": "bug",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 20,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/earwing.png"
+    },{
+      "name": "Ear Breathing",
+      "class": "bug",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 2,
+      "damage": 30,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/earbreathing.png"
+    },{
+      "name": "Beetle Spike",
+      "class": "bug",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 45,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/beetlespike.png"
+    },{
+      "name": "Leaf Bug",
+      "class": "bug",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 45,
+      "imageurl": "images/full_cards/leafbugear.png"
+    },
+    {
+      "name": "Bookworm",
+      "class": "bug",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/bookworm.png"
+    },{
+      "name": "Nerdy",
+      "class": "bug",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/nerdy.png"
+    },{
+      "name": "Neo",
+      "class": "bug",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/neo.png"
+    },{
+      "name": "Kotaro",
+      "class": "bug",
+      "part": "eyes",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 50,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/kotaroeyes.png"
+    },
+    {
       "name": "Wall Gecko",
       "class": "reptile",
       "part": "tail",
@@ -1099,7 +1505,7 @@
     },{
       "name": "Bumpy",
       "class": "reptile",
-      "part": "tail",
+      "part": "horn",
       "card_type": "power",
       "energy": 2,
       "damage": 0,
@@ -1107,6 +1513,108 @@
       "shield": 0,
       "imageurl": "images/full_cards/bumpy.png"
     },{
+      "name": "Friezard",
+      "class": "reptile",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 20,
+      "shield": 0,
+      "imageurl": "images/full_cards/friezard.png"
+    },{
+      "name": "Small Frill",
+      "class": "reptile",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/smallfrill.png"
+    },{
+      "name": "Swirl",
+      "class": "reptile",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/swirl.png"
+    },{
+      "name": "Sidebarb",
+      "class": "reptile",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 50,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/sidebarb.png"
+    },{
+      "name": "Pagona",
+      "class": "reptile",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/pagona.png"
+    },{
+      "name": "Curved Spine",
+      "class": "reptile",
+      "part": "ears",
+      "card_type": "secret",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/curvedspine.png"
+    },
+    {
+      "name": "Gecko",
+      "class": "reptile",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 25,
+      "shield": 0,
+      "imageurl": "images/full_cards/gecko.png"
+    },{
+      "name": "Tricky",
+      "class": "reptile",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 50,
+      "shield": 0,
+      "imageurl": "images/full_cards/tricky.png"
+    },{
+      "name": "Scar",
+      "class": "reptile",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/scar.png"
+    },{
+      "name": "Topaz",
+      "class": "reptile",
+      "part": "eyes",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 25,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/topaz.png"
+    },
+    {
       "name": "Carrot",
       "class": "plant",
       "part": "tail",
@@ -1265,7 +1773,7 @@
       "damage": 0,
       "heal": 65,
       "shield": 0,
-      "imageurl": "images/full_cards/herbivore.png"
+      "imageurl": "images/full_cards/silencewhisper.png"
     },{
       "name": "Bamboo Shoot",
       "class": "plant",
@@ -1326,6 +1834,106 @@
       "heal": 0,
       "shield": 0,
       "imageurl": "images/full_cards/watermelon.png"
+    },{
+      "name": "Clover",
+      "class": "plant",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/clover.png"
+    },{
+      "name": "Rosa",
+      "class": "plant",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 0,
+      "damage": 5,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/rosa.png"
+    },{
+      "name": "Hollow",
+      "class": "plant",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/hollow.png"
+    },{
+      "name": "Sakura",
+      "class": "plant",
+      "part": "ears",
+      "card_type": "power",
+      "energy": 2,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/sakura.png"
+    },{
+      "name": "leafy",
+      "class": "plant",
+      "part": "ears",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 10,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/leafy.png"
+    },{
+      "name": "Lotus",
+      "class": "plant",
+      "part": "ears",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 30,
+      "shield": 50,
+      "imageurl": "images/full_cards/lotus.png"
+    },{
+      "name": "Papi",
+      "class": "plant",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 1,
+      "damage": 0,
+      "heal": 45,
+      "shield": 0,
+      "imageurl": "images/full_cards/papi.png"
+    },{
+      "name": "Confusion",
+      "class": "plant",
+      "part": "eyes",
+      "card_type": "attack",
+      "energy": 1,
+      "damage": 60,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/confusion.png"
+    },{
+      "name": "Cucumber Slice",
+      "class": "plant",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 2,
+      "damage": 0,
+      "heal": 50,
+      "shield": 0,
+      "imageurl": "images/full_cards/cucumberslice.png"
+    },{
+      "name": "Blossom",
+      "class": "plant",
+      "part": "eyes",
+      "card_type": "skill",
+      "energy": 0,
+      "damage": 0,
+      "heal": 0,
+      "shield": 0,
+      "imageurl": "images/full_cards/blossom.png"
     }
 
 
