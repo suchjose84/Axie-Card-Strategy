@@ -11,8 +11,12 @@ font-family: 'Merriweather', serif;
 
 /*
 COLORS
-Primary - #666600 - rgb(102,102,0) - dark yellow - background
-Primary - #666600 - rgb(102,102,0) - dark yellow - background
+Primary - #a7d2cb - rgb(167, 210, 203) - clean - background
+Secondary - #f2d388 - rgb(242, 211, 136) - butter - background
+Secondary - #c98474 - rgb(201, 132, 116) - salmon - background
+Secondary - #874c62 - rgb(135, 76, 98) - eggplant - background
+
+
 
 
 ********************************************************************/
@@ -27,33 +31,44 @@ li {
     text-decoration: none;
 }
 body {
-    background-color: rgba(70,130,180, .7);
+    background-color: rgb(0, 0, 0);
 }
 
 header {
-    height: 6.5rem;
-    background-color: 	rgba(255,215,0, .2);
+    height: 60px;
+    padding: 5px;
+    background-color: rgb(167, 210, 203);
     display: flex;
     justify-content: start;
-    font-size: 3.3rem;
     font-family: 'Catamaran', 'Sans-serif';
     color: rgb(0,0,0, .9);
 }
-.headerImgBox img{
+header img {
     height: 100%;
-
 }
-header ul {
+header .brandDiv{
+    margin-left: 5px;
     display: flex;
     align-items: center;
+    
+    text-align: center;
+
+}
+header h1 {
+    font-size: 2rem;
+}
+
+
+fieldset {
+    background: white;
 }
 
 .card_box, .card_boxSelected{
-    width: 90%;
+    width: 70%;
     margin: 3rem auto 0;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-gap: 30px;
+    grid-gap: 15px;
     
 
 }
@@ -62,7 +77,34 @@ header ul {
     width: 100%;
 
 }
-.gallery img{
+
+.cardSelect img{
     width: 100%;
+}
+.cardSelect fieldset{
+    height: 320px;
+
+}
+.inputContainer {
+    width: 40%;
+    background-color: rgba(242, 211, 136);
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 1fr 1fr;
+    border-radius: 5px;
+    
+}
+.inputContainer label{
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.inputContainer select{
+    border-radius: 5px;
+    height: 30px;
+    
+
 }
 

@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
 
     <link rel="stylesheet" href="css/main_small.css">
-
     <title>Axie Cards</title>
+    <link rel="shortcut icon" href="images/favicon.ico">
 
 
 </head>
@@ -18,12 +18,10 @@
 
     <section>
         <header>
-            <div class="headerImgBox">
-                <a href=""><img src="images/axielogo.png" alt="logo img"></a>
+            <div class="logoImage"><a href=""><img src="images/logo.png" alt="logo img"></a></div>
+            <div class="brandDiv">
+                <h1>Axie Target</h1>
             </div>
-            <ul>
-                <li>Axie Origin Cards and Strategies</li>
-            </ul>
 
         </header>
 
@@ -31,13 +29,13 @@
 
     <main>
 
-        <section class="gallery">
+        <section class="cardSelect">
 
             <fieldset>
                 <div class="inputContainer">
                     <label class="top">Energy
-                        <select class="filter" id="costList" placeholder="All">
-                            <option value="All" selected="">All</option>
+                        <select class="filter" id="costList" placeholder="Energy">
+                            <option value="All" selected="All">All</option>
                             <option value="0">0</option>
                             <option value="1">1</option>
                             <option value="2">2</option>
@@ -46,12 +44,12 @@
                     <label class="top">Class
                         <select class="filter" id="classList" placeholder="All">
                             <option value="All" selected="">All</option>
-                            <option value="plant">Plant</option>
-                            <option value="reptile">Reptile</option>
-                            <option value="beast">Beast</option>
-                            <option value="bug">Bug</option>
                             <option value="aqua">Aqua</option>
                             <option value="bird">Bird</option>
+                            <option value="beast">Beast</option>
+                            <option value="bug">Bug</option>
+                            <option value="plant">Plant</option>
+                            <option value="reptile">Reptile</option>
                         </select>
                     </label>
                     <label class="top">Part
@@ -69,8 +67,11 @@
                         <select class="filter" id="cardTypeList" placeholder="All">
                             <option value="All" selected="">All</option>
                             <option value="attack">Attack</option>
-                            <option value="secret">Secret</option>
                             <option value="skill">Skill</option>
+                            <option value="secret">Secret</option>
+                            <option value="power">Power</option>
+                            <option value="banish">Banish</option>
+                            <option value="innate">Innate</option>
                         </select>
                     </label>
                     <label class="top">Sort

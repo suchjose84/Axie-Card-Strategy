@@ -85,6 +85,10 @@ function showSelectedCards(a, b, c, d, e) {
       for(let i = 0; i < newAxies.length; i++){
         if(newAxies[i].card_type == cardType || cardType == "All"){
           newerAxies.push(newAxies[i]);
+        }else if(newAxies[i].card_type2 == cardType){
+          newerAxies.push(newAxies[i]);
+        }else if(newAxies[i].card_type3 == cardType){
+          newerAxies.push(newAxies[i]);
         }
       }
       for(let i = 0; i < newerAxies.length; i++){
